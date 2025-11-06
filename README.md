@@ -46,9 +46,9 @@
 - The counter's display should be in seconds - whole numbers only
 - Clicking **"Start"** should begin the countdown
   - If paused, the timer should resume
-- Clicking **"Pause"** button should pause the countdown
+- Clicking **"Pause"** should pause the countdown
   - The value should not be reset
-- Clicking the **"Reset"** button should set the timer back to its initial value (**30 seconds**)
+- Clicking the **"Reset"** should set the timer back to its initial value (**30 seconds**)
   - If the timer is running, reset and continue counting down
   - If paused, reset and keep paused
 - When the countdown timer reaches 0, it should stop and log `"Timer Complete"` to the console
