@@ -1,3 +1,27 @@
+## Setup Instructions
+1. **Fork this repository** to your own GitHub account
+<img src="./public/fork.png" alt="fork_menu" width="600">
+2. **Clone your fork** to your local machine
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/React-Coding-Exercise.git
+   cd React-Coding-Exercise
+   ```
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+4. **Start the development server**
+   ```bash
+   npm start
+   ```
+5. Complete the exercise in your fork, commit your changes, and push to your forked repository
+   ```bash
+   git add .
+   git commit -m "Complete countdown timer exercise"
+   git push origin main
+   ```
+
+
 ## React Countdown Timer Exercise
 
 ![alt_text](./public/image.png) 
