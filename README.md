@@ -34,24 +34,23 @@
 > 
 > Ask as many clarifying questions as you need, and think out loud to help us understand your process.
 
-For this exercise, we would like you to build a simple countdown timer. You will need:
-* A "Start" button
-* A "Pause" button
-* A "Reset" button
+**For this exercise, we would like you to build a simple countdown timer. You will need:**
+* A **"Start"** button
+* A **"Pause"** button
+* A **"Reset"** button
 * An element to display the counter
 
 ### Requirements
 
-- The timer starts at **30 seconds**
-- The counter's display is in seconds, whole numbers only
-- Clicking **"Start"** begins the countdown
-  - If paused, the timer resumes
-- Clicking **"Pause"** button pauses the countdown
+- The timer should start at **30 seconds**
+- The counter's display should be in seconds - whole numbers only
+- Clicking **"Start"** should begin the countdown
+  - If paused, the timer should resume
+- Clicking **"Pause"** button should pause the countdown
   - The value should not be reset
-- Clicking the **"Reset"** button sets the timer back to its initialized value (30 seconds)
+- Clicking the **"Reset"** button should set the timer back to its initial value (**30 seconds**)
   - If the timer is running, reset and continue counting down
   - If paused, reset and keep paused
-- When the countdown timer reaches 0, it should stop
-  - Log `"Timer Complete"` to the console
+- When the countdown timer reaches 0, it should stop and log `"Timer Complete"` to the console
     
 
