@@ -1,6 +1,6 @@
 ## Setup Instructions
 1. **Fork this repository** to your own GitHub account
-<img src="./public/fork.png" alt="alt_text" style="border: 3px solid #ccc; border-radius: 10px;">
+![alt_text](./public/fork.png) 
 
 2. **Clone your fork** to your local machine
    ```bash
