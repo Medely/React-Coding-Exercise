@@ -1,6 +1,7 @@
 ## Setup Instructions
 1. **Fork this repository** to your own GitHub account
 <img src="./public/fork.png" alt="fork_menu" width="600">
+
 2. **Clone your fork** to your local machine
    ```bash
    git clone https://github.com/YOUR_USERNAME/React-Coding-Exercise.git
