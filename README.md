@@ -6,21 +6,23 @@
    git clone https://github.com/YOUR_USERNAME/React-Coding-Exercise.git
    cd React-Coding-Exercise
    ```
+
 3. **Install dependencies**
    ```bash
    npm install
    ```
+
 4. **Start the development server**
    ```bash
    npm start
    ```
-5. Complete the exercise in your fork, commit your changes, and push to your forked repository
+
+5. **Complete the exercise**, commit your changes, and push to your forked repository
    ```bash
    git add .
    git commit -m "Complete countdown timer exercise"
    git push origin main
    ```
-
 
 ## React Countdown Timer Exercise
 
