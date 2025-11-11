@@ -45,12 +45,12 @@
 - The timer should start at **30 seconds**
 - The counter's display should be in seconds - whole numbers only
 - Clicking **"Start"** should begin the countdown
-  - If paused, the timer should resume
+  - If paused, the timer should resume counting down from the paused value
 - Clicking **"Pause"** should pause the countdown
   - The value should not be reset
 - Clicking the **"Reset"** should set the timer back to its initial value (**30 seconds**)
   - If the timer is running, reset and continue counting down
-  - If paused, reset and keep paused
+  - If the timer is paused, reset and keep paused
 - When the countdown timer reaches 0, it should stop and log `"Timer Complete"` to the console
     
 
